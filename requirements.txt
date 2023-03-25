@@ -1,6 +1,6 @@
 fastapi==0.95.0
 jsonschema==4.17.3
-keras==2.12.0
+keras==2.11.0
 numpy
 opencv-python==4.7.0.72
 Pillow==9.4.0
