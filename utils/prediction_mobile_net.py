@@ -7,7 +7,7 @@ from PIL import Image
 import json
 import cv2
 
-@st.cache_resource
+#@st.cache_resource
 def prediction_ml(img):
     #neural network parameters 
     params = {'batch_size': 64,
