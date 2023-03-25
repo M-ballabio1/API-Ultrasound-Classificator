@@ -11,8 +11,8 @@ requests-toolbelt==0.10.1
 tensorboard==2.11.2
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.12.0rc1
-tensorflow-estimator==2.12.0
+tensorflow==2.11.0rc1
+tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
 ujson==5.7.0
 uvicorn==0.21.1
