@@ -2,11 +2,11 @@
 
 ## Details
 
-This project is an API classifier built using a deep learning architecture. It allows you to classify various types of data with high accuracy. You can interact with the application through a user-friendly Streamlit app. Check out the live demo at [Streamlit App](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/). The code and detailed documentation can be found in this repository.
+This project is an API classifier built using a deep learning architecture. It allows you to classify various types of data with high accuracy. You can interact with the application through a user-friendly Streamlit app. Check out the live demo at [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/). The code and detailed documentation can be found in this repository.
 
 ![API Ultrasound](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/e138734e-f606-4185-be45-155a3a049d04)
 
-[**Live Demo App:** [API Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
+[**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
 
 ## Repository
 
@@ -29,7 +29,7 @@ The code and detailed documentation can be found in this [GitHub repository](htt
 
 For more detailed instructions, refer to the documentation in the repository.
 
-Other usage on: [**Live Demo App:** [API Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)
+Other usage on: [**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)
 
 ## Interaction with the API:
 
