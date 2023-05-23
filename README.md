@@ -36,9 +36,9 @@ Image 1: Interaction using Streamlit UI.
 
 ## Interaction with the API:
 
-- POST: https://api-ultrasound-image-classificator.onrender.com/classification
-Input: images (png or jpg)
-Output: json string (str with odds of classification in each classes)
+POST: https://api-ultrasound-image-classificator.onrender.com/classification
+- Input: images (png or jpg)
+- Output: json string (str with odds of classification in each classes)
 
 ![Render-API](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/536dff65-7a67-4fa1-81a2-13c01552710d)
 Image 2: Render platform to monitor Https requests sent.
