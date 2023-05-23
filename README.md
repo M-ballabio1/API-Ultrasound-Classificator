@@ -1,4 +1,4 @@
-# API-Ultrasound-Classificator
+# API-Ultrasound-Classificator 🩺
 
 ## Details
 
