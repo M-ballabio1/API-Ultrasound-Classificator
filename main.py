@@ -64,7 +64,11 @@ def custom_openapi():
 
 app.openapi = custom_openapi
 
-@app.post("/classification")
+@app.get("/", tags=["Hello"])
+def get_hello():
+    return "Hey, you're working with Ultrasound Classificator Api"
+
+@app.post("/classification", tags=["Classification"])
 def get_classification(request: Request, file: bytes = File(...)):
     """Get classification class from image file"""
     image=read_image(file)

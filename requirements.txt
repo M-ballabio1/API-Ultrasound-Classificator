@@ -12,10 +12,10 @@ python-multipart==0.0.6
 requests
 requests-oauthlib==1.3.1
 requests-toolbelt==0.10.1
-tensorboard==2.10
+tensorboard==2.11
 tensorboard-data-server===0.6.0
 tensorboard-plugin-wit==1.8.1
-tensorflow-cpu
+tensorflow-cpu==2.11.0
 tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
 ujson==5.7.0
