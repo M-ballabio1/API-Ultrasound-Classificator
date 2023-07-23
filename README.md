@@ -10,6 +10,7 @@ This is the workflow and pipeline utilized in version 1 of this API. The process
 ![mlops_pipeline_versione1](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/b78b7379-8c3a-45ae-966a-117b50e09525)
 
 This is the screenshot of web application used a default client of this api.
+
 ![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488)
 
 [**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
@@ -54,6 +55,7 @@ This is the workflow and pipeline utilized in version 2 of this API. The process
 ![mlops_pipeline_versione2](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/1046e090-38d2-4c3b-9bc4-d32415f97e98)
 
 This is the screenshot of web application used a default client of this api.
+
 ![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488)
 
 [**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
@@ -90,7 +92,7 @@ POST: https://api-ultrasound-classificator-cloud-run-pa6vji5wfa-ew.a.run.app/cla
 - Input: images (png or jpg)
 - Output: json string (str with odds of classification in each classes)
 
-![cloud_run_api](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/9ecad8c1-2890-4a5b-bd30-8fa2d7f708dd){: width="70%"}
+![cloud_run_api](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/9ecad8c1-2890-4a5b-bd30-8fa2d7f708dd)
 
 Image 2: Cloud Run Api
 
