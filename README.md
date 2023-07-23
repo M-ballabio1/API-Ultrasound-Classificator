@@ -4,9 +4,9 @@
 
 This project is an API classifier built using a deep learning architecture. It allows you to classify various types of data with high accuracy. You can interact with the application through a user-friendly Streamlit app. Check out the live demo at [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/). The code and detailed documentation can be found in this repository.
 
-_### VERSION V1:_
+### VERSION V1▶️
 
-![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488){: width="70%"}
+![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488)
 
 [**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
 
@@ -45,9 +45,9 @@ POST: https://api-ultrasound-image-classificator.onrender.com/classification
 ![Render-API](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/536dff65-7a67-4fa1-81a2-13c01552710d)
 Image 2: Render platform to monitor Https requests sent.
 
-_### VERSION 2:_
+### VERSION 2▶️
 
-![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488){: width="70%"}
+![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488)
 
 [**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
 
