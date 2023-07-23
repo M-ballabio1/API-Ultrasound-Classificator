@@ -6,6 +6,10 @@ This project is an API classifier built using a deep learning architecture. It a
 
 ![API Ultrasound](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/e138734e-f606-4185-be45-155a3a049d04)
 
+<p align="center">
+  <img src="https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/e138734e-f606-4185-be45-155a3a049d04" alt="API Ultrasound" width="70%" height="50%">
+</p>
+
 [**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
 
 ## Repository
