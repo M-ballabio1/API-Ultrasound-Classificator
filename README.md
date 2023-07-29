@@ -2,7 +2,7 @@
 
 ## Details
 
-This project is an API classifier built using a deep learning architecture. It allows you to classify various types of data with high accuracy. You can interact with the application through a user-friendly Streamlit app. Check out the live demo at [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/). The code and detailed documentation can be found in this repository.
+This project is an API classifier built using a deep learning architecture. It allows you to classify various types of data with high accuracy. You can interact with the application through a user-friendly Streamlit app. Check out the live demo at [App Classifier](https://web-app-ultrasound-classificator.streamlit.app/). The code and detailed documentation can be found in this repository.
 
 ## VERSION V1▶️
 This is the workflow and pipeline utilized in version 1 of this API. The process involves multiple steps, including data collection, preprocessing, feature engineering, model training, validation, and deployment. Each stage is carefully orchestrated to ensure the seamless functioning of the API, delivering efficient and accurate results to users.
@@ -13,7 +13,7 @@ This is the screenshot of web application used a default client of this api.
 
 ![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488)
 
-[**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
+[**Live Demo App:** [App Classifier](https://web-app-ultrasound-classificator.streamlit.app/)]
 
 ## Repository
 
@@ -58,7 +58,7 @@ This is the screenshot of web application used a default client of this api.
 
 ![web_app_st](https://github.com/M-ballabio1/API-Ultrasound-Classificator/assets/78934727/769b3d16-886a-41d8-8321-eb8038a2a488)
 
-[**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)]
+[**Live Demo App:** [App Classifier](https://web-app-ultrasound-classificator.streamlit.app/)]
 
 ## Repository
 
@@ -82,7 +82,7 @@ The code and detailed documentation can be found in this [GitHub repository](htt
 
 For more detailed instructions, refer to the documentation in the repository.
 
-Other usage on: [**Live Demo App:** [App Classifier](https://m-ballabio1-web-app-classificator-main-0ebnyd.streamlit.app/)
+Other usage on: [**Live Demo App:** [App Classifier](https://web-app-ultrasound-classificator.streamlit.app/)
 
 Image 1: Interaction using Streamlit UI.
 
